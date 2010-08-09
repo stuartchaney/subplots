@@ -206,3 +206,595 @@ ActionController::RoutingError (No route matches "/images/bg_6.jpg" with {:metho
   
 
 Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-08 13:52:51) [GET]
+
+ActionController::RoutingError (No route matches "/images/bg_6.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-08 13:55:02) [GET]
+
+ActionController::RoutingError (No route matches "/images/bg_6.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-08 13:55:36) [GET]
+
+ActionController::RoutingError (No route matches "/images/bg_6.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-08 13:55:59) [GET]
+
+ActionController::RoutingError (No route matches "/images/bg_6.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-08 13:56:18) [GET]
+
+ActionController::RoutingError (No route matches "/images/bg_6.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-08 14:00:54) [GET]
+
+ActionController::RoutingError (No route matches "/images/bg_6.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-08 14:01:02) [GET]
+
+ActionController::RoutingError (No route matches "/images/bg_6.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-08 14:06:21) [GET]
+
+ActionController::RoutingError (No route matches "/images/bg_6.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-08 14:06:42) [GET]
+
+ActionController::RoutingError (No route matches "/images/bg_6.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-08 14:06:51) [GET]
+
+ActionController::RoutingError (No route matches "/images/bg_6.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-08 14:07:07) [GET]
+
+ActionController::RoutingError (No route matches "/images/bg_6.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-08 14:11:42) [GET]
+
+ActionController::RoutingError (No route matches "/images/bg_6.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-08 14:11:55) [GET]
+
+ActionController::RoutingError (No route matches "/images/bg_6.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-08 14:12:20) [GET]
+
+ActionController::RoutingError (No route matches "/images/bg_6.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-08 14:13:30) [GET]
+
+ActionController::RoutingError (No route matches "/images/bg_6.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-08 14:13:45) [GET]
+
+ActionController::RoutingError (No route matches "/images/bg_6.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-08 14:14:55) [GET]
+
+ActionController::RoutingError (No route matches "/images/bg_6.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-08 14:15:26) [GET]
+
+ActionController::RoutingError (No route matches "/images/bg_6.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-08 14:15:36) [GET]
+
+ActionController::RoutingError (No route matches "/images/bg_6.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-08 14:16:00) [GET]
+
+ActionController::RoutingError (No route matches "/images/bg_6.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-08 14:16:09) [GET]
+
+ActionController::RoutingError (No route matches "/images/bg_6.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-08 14:17:36) [GET]
+
+ActionController::RoutingError (No route matches "/images/bg_6.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-08 14:18:00) [GET]
+
+ActionController::RoutingError (No route matches "/images/bg_6.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-08 14:18:05) [GET]
+
+ActionController::RoutingError (No route matches "/images/bg_6.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-08 14:21:13) [GET]
+
+ActionController::RoutingError (No route matches "/images/bg_6.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-08 14:21:26) [GET]
+
+ActionController::RoutingError (No route matches "/images/bg_6.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-08 14:21:51) [GET]
+
+ActionController::RoutingError (No route matches "/images/bg_6.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-08 14:22:05) [GET]
+
+ActionController::RoutingError (No route matches "/images/bg_6.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-08 14:22:14) [GET]
+
+ActionController::RoutingError (No route matches "/images/bg_6.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-08 14:22:36) [GET]
+
+ActionController::RoutingError (No route matches "/images/bg_6.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-08 14:22:44) [GET]
+
+ActionController::RoutingError (No route matches "/images/bg_6.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-08 14:22:57) [GET]
+
+ActionController::RoutingError (No route matches "/images/bg_6.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-08 14:23:02) [GET]
+
+ActionController::RoutingError (No route matches "/images/bg_6.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-08 14:23:14) [GET]
+
+ActionController::RoutingError (No route matches "/images/bg_6.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-08 14:23:37) [GET]
+
+ActionController::RoutingError (No route matches "/images/bg_6.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-08 14:23:50) [GET]
+
+ActionController::RoutingError (No route matches "/images/bg_6.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-08 14:23:56) [GET]
+
+ActionController::RoutingError (No route matches "/images/bg_6.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-08 14:24:15) [GET]
+
+ActionController::RoutingError (No route matches "/images/bg_6.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-08 14:24:25) [GET]
+
+ActionController::RoutingError (No route matches "/images/bg_6.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-08 14:24:39) [GET]
+
+ActionController::RoutingError (No route matches "/images/bg_6.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-08 14:24:57) [GET]
+
+ActionController::RoutingError (No route matches "/images/bg_6.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-08 14:25:08) [GET]
+
+ActionController::RoutingError (No route matches "/images/bg_6.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-08 14:25:14) [GET]
+
+ActionController::RoutingError (No route matches "/images/bg_6.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-08 14:25:33) [GET]
+
+ActionController::RoutingError (No route matches "/images/bg_6.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-08 14:26:02) [GET]
+
+ActionController::RoutingError (No route matches "/images/bg_6.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-08 14:26:27) [GET]
+
+ActionController::RoutingError (No route matches "/images/bg_6.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-08 14:26:36) [GET]
+
+ActionController::RoutingError (No route matches "/images/bg_6.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-08 14:26:46) [GET]
+
+ActionController::RoutingError (No route matches "/images/bg_6.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-08 14:26:52) [GET]
+
+ActionController::RoutingError (No route matches "/images/bg_6.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-08 14:27:18) [GET]
+
+ActionController::RoutingError (No route matches "/images/bg_6.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-08 14:28:29) [GET]
+
+ActionController::RoutingError (No route matches "/images/bg_6.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-08 14:28:42) [GET]
+
+ActionController::RoutingError (No route matches "/images/bg_6.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-08 14:29:38) [GET]
+
+ActionController::RoutingError (No route matches "/images/bg_6.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-08 14:29:38) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/images/sn_icons.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-08 14:29:49) [GET]
+
+ActionController::RoutingError (No route matches "/images/bg_6.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-08 14:29:56) [GET]
+
+ActionController::RoutingError (No route matches "/images/bg_6.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-08 14:30:48) [GET]
+
+ActionController::RoutingError (No route matches "/images/bg_6.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-08 14:30:48) [GET]
+
+ActionController::RoutingError (No route matches "/images/press_button.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-08 14:31:10) [GET]
+
+ActionController::RoutingError (No route matches "/images/bg_6.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-08 14:31:11) [GET]
+
+ActionController::RoutingError (No route matches "/images/press_button.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-08 14:31:37) [GET]
+
+ActionController::RoutingError (No route matches "/images/press_button.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-08 14:31:38) [GET]
+
+ActionController::RoutingError (No route matches "/images/bg_6.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-08 14:31:39) [GET]
+
+ActionController::RoutingError (No route matches "/images/press_button.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-08 14:31:48) [GET]
+
+ActionController::RoutingError (No route matches "/images/press_button.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-08 14:32:01) [GET]
+
+ActionController::RoutingError (No route matches "/images/bg_6.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-08 14:32:20) [GET]
+
+ActionController::RoutingError (No route matches "/images/bg_6.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-08 14:32:31) [GET]
+
+ActionController::RoutingError (No route matches "/images/bg_6.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-08 14:32:48) [GET]
+
+ActionController::RoutingError (No route matches "/images/bg_6.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-08 14:33:01) [GET]
+
+ActionController::RoutingError (No route matches "/images/bg_6.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-08 14:33:38) [GET]
+
+ActionController::RoutingError (No route matches "/images/bg_6.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-08 14:34:01) [GET]
+
+ActionController::RoutingError (No route matches "/images/bg_6.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-08 14:34:16) [GET]
+
+ActionController::RoutingError (No route matches "/images/bg_6.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-08 14:34:36) [GET]
+
+ActionController::RoutingError (No route matches "/images/bg_6.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-08 14:35:43) [GET]
+
+ActionController::RoutingError (No route matches "/images/bg_6.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
