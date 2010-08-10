@@ -206,3 +206,11 @@ ActionController::RoutingError (No route matches "/images/bg_6.jpg" with {:metho
   
 
 Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-08-10 23:13:10) [GET]
+
+ActionController::RoutingError (No route matches "/images/bg_6.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
