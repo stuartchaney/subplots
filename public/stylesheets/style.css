@@ -49,21 +49,25 @@ h1, h2, h3, h4{padding:0px; margin:0px;}
 	text-align:center;
 }
 
+#header_wrapper{
+  float:left;
+  width:960px;
+  height:100px;
+}
+
 #header_low{
   height:40px;
   float:left;
-	background-color:#ccc;
 	color:#fff;
+	width:960px;
 }
 
 
 #logo{
 	float:left;
-	width:405px;
-	height:80px;
-	background-repeat: no-repeat;
-	background-position:0px 15px;
-	background-image:url(/images/logo.png);
+	width:960px;
+	height:135px;
+	
 }
 
 
@@ -133,10 +137,13 @@ border-right-width: 1px;
 .main_text{ background-image:url(/images/text.png); height:150px; background-position:0px 0px; }
 
 
-
+.navigation{
+  margin-left:160px;
+  float:left;
+}
 
 .navigation ul {
-float:right;
+float:left;
 margin-top:14px;
 }
 
@@ -145,11 +152,12 @@ height:38px;
 display:block;
 float:left;
 text-align:center;
-font-size:15px;
+font-size:20px;
 text-decoration:none;
 color:#FFFFFF;
 font-weight:bold;
-margin-left:37px;
+margin-left:100px;
+padding-top:10px;
 }
 
 .navigation a:hover {
@@ -162,7 +170,9 @@ display:inline;
 }
 
 
-
+.fix{
+  
+}
 
 .sign_up_form_border{
 border:2px solid #ccc;
@@ -178,7 +188,7 @@ td{padding-top:15px;}
   float:left;
   width:160px;
   background-image: url(/images/big_left.jpg);
-  background-position: 0px 100px;
+  background-position: 0px 75px;
   background-repeat:no-repeat;
   min-height:5960px;
   
@@ -202,8 +212,7 @@ td{padding-top:15px;}
 #sn_icons{
   float:left;
   height:50px;
-  width:160px;
-  background-image :url(/images/sn_icons.jpg);
+  width:161px;
   margin-left:2px;
 }
 
@@ -211,7 +220,6 @@ td{padding-top:15px;}
   float:left;
   height:50px;
   width:160px;
-  background-image :url(/images/press_button_.jpg);
   margin-top:5px;
   margin-left:2px;
 }
@@ -222,6 +230,34 @@ td{padding-top:15px;}
   width:160px;
   margin-top:5px;
   margin-left:2px;
+}
+
+#page{
+  float:left;
+  margin-top:5px;
+  
+}
+
+#upper_links{
+  float:left;
+  height:70px;
+ 
+}
+
+#shop{
+   float:left;
+  height:35px;
+ 
+  text-align:center;
+  width:160px;
+}
+
+#itunes{
+  float:left;
+  height:35px;
+ 
+  text-align:center;
+  width:160px;
 }
 
 
